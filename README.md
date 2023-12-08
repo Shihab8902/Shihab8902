@@ -25,7 +25,7 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 
 <div align="center">
 
-[![Button Text](https://i.ibb.co/QjGgPTL/rsz-linkedinlogo.png)](www.linkedin.com/in/shihab8902)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Button Text](https://i.ibb.co/QjGgPTL/rsz-linkedinlogo.png)](https://example.com/link-url)
+[![Button Text](https://i.ibb.co/QjGgPTL/rsz-linkedinlogo.png)](https://www.linkedin.com/in/shihab8902)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Button Text](https://i.ibb.co/QjGgPTL/rsz-linkedinlogo.png)](https://example.com/link-url)
 
 
 
