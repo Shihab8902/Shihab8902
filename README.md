@@ -25,19 +25,11 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 
 <div align="center">
 
-[![Button Text](https://i.ibb.co/QjGgPTL/rsz-linkedinlogo.png)](https://www.linkedin.com/in/shihab8902)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Button Text](https://i.ibb.co/QjGgPTL/rsz-linkedinlogo.png)](https://example.com/link-url)
-
+[![LinkedIn](https://i.ibb.co/QjGgPTL/rsz-linkedinlogo.png)](https://www.linkedin.com/in/shihab8902)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Gmail](https://i.ibb.co/3sZ45sH/resized1.png)](mailto:shihabbd018@gmail.com)
 
 
 
 </div>
-
-
-
-
-
-
-
 
 
 
@@ -52,37 +44,39 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 </div>
 
 
+<br> <br>
+
+## 📝 My Recent Projects
+
+- ### ShipSwift 
+   - #### Live Site: https://shipswiftbyshihab.netlify.app
+
+  -  <b>Technologies</b>: React, Tailwind CSS, Firebase, Express.js, MongoDB, Mongoose, JWT
+
+ShipSwift is a parcel management website where a user can book a parcel to be delivered. Admin can view the bookings and assign delivery person for delivery. Delivery person can view the location of delivery and deliver the parcel.
+
+<br>
+
+- ### Dinein 
+    - #### Live Site: https://dineinbyshihab.netlify.app
+
+    -  <b>Technologies</b>: React.js, Tailwind CSS, MongoDB Firebase, JWT, AOS
+    
+Dinein is an interactive food ordering platform allows users to seamlessly place orders for their favorite dishes. 
+Additionally, users can contribute by introducing new food for a personalized dining experience.
+
+
+<br>
+
+- ### ByteSync 
+    - #### Live Site: https://bytesyncbyshihab.netlify.app
+    - <b>Technologies</b>: React.js, Tailwind CSS, daisy UI, MongoDB, Firebase
+
+ByteSync is an online retail electronic store where users can buy electronic products from top-renowned brands as well 
+as add new products
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
