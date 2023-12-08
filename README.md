@@ -51,7 +51,7 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 - ### ShipSwift 
    - #### Live Site: https://shipswiftbyshihab.netlify.app
 
-  -  <b>Technologies</b>: React, Tailwind CSS, Firebase, Express.js, MongoDB, Mongoose, JWT
+  -  **Technologies**: React, Tailwind CSS, Firebase, Express.js, MongoDB, Mongoose, JWT
 
 ShipSwift is a parcel management website where a user can book a parcel to be delivered. Admin can view the bookings and assign delivery person for delivery. Delivery person can view the location of delivery and deliver the parcel.
 
@@ -60,7 +60,7 @@ ShipSwift is a parcel management website where a user can book a parcel to be de
 - ### Dinein 
     - #### Live Site: https://dineinbyshihab.netlify.app
 
-    -  <b>Technologies</b>: React.js, Tailwind CSS, MongoDB Firebase, JWT, AOS
+    -  **Technologies**: React.js, Tailwind CSS, MongoDB Firebase, JWT, AOS
     
 Dinein is an interactive food ordering platform allows users to seamlessly place orders for their favorite dishes. 
 Additionally, users can contribute by introducing new food for a personalized dining experience.
@@ -70,7 +70,7 @@ Additionally, users can contribute by introducing new food for a personalized di
 
 - ### ByteSync 
     - #### Live Site: https://bytesyncbyshihab.netlify.app
-    - <b>Technologies</b>: React.js, Tailwind CSS, daisy UI, MongoDB, Firebase
+    - **Technologies**: React.js, Tailwind CSS, daisy UI, MongoDB, Firebase
 
 ByteSync is an online retail electronic store where users can buy electronic products from top-renowned brands as well 
 as add new products
