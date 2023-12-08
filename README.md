@@ -2,7 +2,7 @@
 
 
 
-<div style='text-align: center;'>
+<div align="center">
 
 Passionate about crafting dynamic and user-centric web experiences. Proficient in MERN stack, leveraging the power of Tailwind CSS for sleek designs🎨. TypeScript for precise type checking and JavaScript for seamlessly coordinating functionality. My toolkit includes React⚛️ for building responsive interfaces, alongside different React packages as per project needs. Node.js and Express.js for robust server-side logic, and MongoDB/Mongoose for efficient data management📊. Specializing in Firebase Authentication 🔐 for secure user interactions.
 
@@ -12,7 +12,7 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 
 ## 📈 Current stats
 
-<div style='text-align: center;'>
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shihab8902&theme=github-dark)](https://git.io/streak-stats)
 
@@ -22,7 +22,7 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 
 ## 💻 Tech Stack
 
-<div style='text-align: center;'>
+<div align="center">
 
  [![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,sass,javascript,typescript,firebase,nodejs,expressjs,mongodb,postman,git,github,vscode&perline=6)](https://skillicons.dev)
 
