@@ -21,7 +21,7 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 
 <br> <br>
 
-## 💻 Reach me out
+## 🗺️ Reach me out
 
 <div align="center">
 
