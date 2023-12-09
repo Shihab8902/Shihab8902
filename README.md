@@ -16,6 +16,15 @@ Passionate about crafting dynamic and user-centric web experiences. Proficient i
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shihab8902&theme=github-dark)](https://git.io/streak-stats)
 
+
+
+
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shihab8902&show_icons=true&theme=radical)
+
+
+
+
+
 </div>
 
 
